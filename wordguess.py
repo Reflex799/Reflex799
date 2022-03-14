@@ -1,3 +1,8 @@
+#This was to practice WHILE loops.
+#It is a simple word guessing game with 3 tries
+#You must change the word in "Secret_word" and the hint to whatever you want.
+
+
 print("\n")
 print("Welcome to my word guessing game!")
 print("You have 3 guesses, have fun!\n")
