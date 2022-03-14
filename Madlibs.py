@@ -1,3 +1,5 @@
+#This is my first python code, it is a simple Mad Libs game with a choice of 2 different stories.
+
 
 player = input("Hello! what is your name?: ")
 print("Welcome " + player + " to my Mad Libs game!")
